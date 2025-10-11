@@ -7,8 +7,25 @@ en el plano puse un routr varias tvs y celulares al igual que una pc alambrica y
 laptop de forma inalambrica 
 
 
-La nube es como ese lugar invisible donde guardamos nuestras cosas: fotos, documentos, música… y podemos acceder a ellas desde cualquier parte. Tu computadora de escritorio y tu laptop son herramientas que usamos para trabajar, estudiar o simplemente navegar por Internet. El router es ese aparatito que tienes en casa que reparte el Internet a todos tus dispositivos, y si tiene funciones de seguridad, también actúa como firewall, protegiéndote de cosas raras que puedan venir de la red.
-Los switches son como los organizadores del tráfico dentro de una red, conectando varios dispositivos para que se comuniquen entre sí. Algunos son más avanzados y trabajan en diferentes niveles, por eso se les llama switch layer. Un servidor es una computadora especial que no ves, pero que está siempre encendida para darte acceso a cosas como páginas web, correos o archivos compartidos. Tu smartphone, tu smart TV, y hasta tu computadora son los que consumen esos servicios: son los puntos finales, los que reciben y envían información.
-Las torres de radio y las antenas son las encargadas de enviar señales para que puedas tener Internet sin cables, hacer llamadas o ver televisión. Y si estás en un lugar grande con muchas conexiones Wi-Fi, el controlador de acceso inalámbrico se encarga de que todo funcione bien y sin interferencias.
+La nube es como ese lugar invisible donde guardamos nuestras cosas: fotos, documentos, música…
+y podemos acceder a ellas desde cualquier parte. Tu computadora de escritorio y tu laptop son 
+herramientas que usamos para trabajar, estudiar o simplemente navegar por Internet. El router 
+es ese aparatito que tienes en casa que reparte el Internet a todos tus dispositivos, y si 
+tiene funciones de seguridad, también actúa como firewall, protegiéndote de cosas raras que 
+puedan venir de la red.
+
+Los switches son como los organizadores del tráfico dentro de una red, conectando varios 
+dispositivos para que se comuniquen entre sí. Algunos son más avanzados y trabajan en 
+diferentes niveles, por eso se les llama switch layer. Un servidor es una computadora 
+especial que no ves, pero que está siempre encendida para darte acceso a cosas como
+páginas web, correos o archivos compartidos. Tu smartphone, tu smart TV, y hasta tu 
+computadora son los que consumen esos servicios: son los puntos finales, los que
+reciben y envían información.
+
+Las torres de radio y las antenas son las encargadas de enviar señales para que 
+puedas tener Internet sin cables, hacer llamadas o ver televisión. Y si estás
+en un lugar grande con muchas conexiones Wi-Fi, el controlador de acceso inalámbrico
+se encarga de que todo funcione bien y sin interferencias.
+
 
 
