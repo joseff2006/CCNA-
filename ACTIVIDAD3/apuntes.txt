@@ -1,0 +1,7 @@
+hoy utilizamos la herraminta excalidraw como la extencion para desarrollar el plano de la redes 
+alambricas y de internet de mi casa , las lineas consecutivas son de la coneccion inalambrica y 
+y las lineas fijas son de la coneccion alambrica. aprendi que los archivos para utilizar esa 
+extencion lleva al final del nombre .excalidraw 
+
+en el plano puse un routr varias tvs y celulares al igual que una pc alambrica y una 
+laptop de forma inalambrica 
